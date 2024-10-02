@@ -1627,3 +1627,10 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.img_portfolio {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
